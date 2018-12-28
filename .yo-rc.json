@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "MyJasperServer",
+    "packageName": "com.ashish.myjasperserver",
+    "packageFolder": "com/ashish/myjasperserver",
+    "serverPort": 9091,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "NDcwODg0OWExYzY3NGRkN2UyOTljNDQ2ZmNmZTFkMzcyMWU3MDJjNjM0NmI1NGNlZjBhYmViYmY1MzI0NjJkNGI0NTYzZDhhYjkyOTcyOTRlYzE3YTI0MGIyNGUxNTBhM2FhMTU4YTc4Y2QzNjQ3MWJmNGE0ODIyZGJkZmFkYmY=",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "ashish0285",
+  "repository-name": "MyJasperServer"
+}
